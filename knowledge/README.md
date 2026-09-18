@@ -24,6 +24,7 @@
 | [modules.md](modules.md) | Модули |
 | [queries.md](queries.md) | Запросы |
 | [builtin-language.md](builtin-language.md) | Встроенный язык 1С |
+| [1cmycloud-basic-syntax.md](1cmycloud-basic-syntax.md) | Язык «1С:Элемент» (справка 1cmycloud) |
 | [roles-and-rights.md](roles-and-rights.md) | Роли и права |
 | [integrations.md](integrations.md) | Интеграции |
 | [extensions.md](extensions.md) | Расширения |

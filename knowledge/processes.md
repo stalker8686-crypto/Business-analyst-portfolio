@@ -258,4 +258,32 @@
 - Выжимка: [builtin-language.md](builtin-language.md)
 - Источники: [Синтакс-помощник](https://v8.1c.ru/platforma/sintaks-pomoshchnik/); [Новое в 1C:EDT 2025.2](https://v8.1c.ru/platforma/news/novoe-v-1c-edt-2025-2/)
 
-**Итого в список включено: 36 процессов.**
+## 37. Подключение скрипта «1С:Элемент»
+
+Все `#требуется` — в начале файла **до любого исполняемого кода**. Пути относительные или абсолютные (пример расширения `.sbsl`).
+
+- Выжимка: [1cmycloud-basic-syntax.md](1cmycloud-basic-syntax.md)
+- Источники: [Базовый синтаксис](https://1cmycloud.com/console/help/lang/docs/topics/basic-syntax/), «Импорт»; [Модульная разработка](https://1cmycloud.com/console/help/lang/docs/topics/modular-programming-in-1c-script/)
+
+## 38. Автозакрытие ресурса (`исп`)
+
+Переменная `исп` только для чтения; тип — потомок `Закрываемое`. При выходе из области видимости вызывается **`Закрыть()`**.
+
+- Выжимка: [1cmycloud-basic-syntax.md](1cmycloud-basic-syntax.md)
+- Источник: [Инструкция объявления переменной](https://1cmycloud.com/console/help/lang/docs/topics/variable-declaration-statement/)
+
+## 39. Обработка исключения в «1С:Элемент»
+
+`попытка` → при ошибке `поймать` с типом → блок **`вконце` выполняется в любом случае**. Выброс: `выбросить новый …`.
+
+- Выжимка: [1cmycloud-basic-syntax.md](1cmycloud-basic-syntax.md)
+- Источники: [Базовый синтаксис](https://1cmycloud.com/console/help/lang/docs/topics/basic-syntax/), «Исключения»; [Исключения](https://1cmycloud.com/console/help/lang/docs/topics/exceptions/)
+
+## 40. Цикл `для по` (счётчик)
+
+Присвоить счётчику `выражение1` → один раз вычислить `выражение2` и шаг → пока счётчик не вышел за границу выполнять тело → `продолжить` увеличивает счётчик и к проверке; `прервать` выходит сразу. Если старт строго больше конца (без `вниз`) — тело не выполняется.
+
+- Выжимка: [1cmycloud-basic-syntax.md](1cmycloud-basic-syntax.md)
+- Источник: [Цикл «для по»](https://1cmycloud.com/console/help/lang/docs/topics/for-loop/), «Принцип работы»
+
+**Итого в список включено: 40 процессов.**
