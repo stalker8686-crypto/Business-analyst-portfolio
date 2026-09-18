@@ -10,6 +10,8 @@
 
 | Файл | Тема |
 |------|------|
+| [inventory.md](inventory.md) | Инвентарь пака (файлы, разделы, пробелы) |
+| [processes.md](processes.md) | Процессы, явно описанные в выжимках |
 | [platform.md](platform.md) | Платформа 1С:Предприятие |
 | [configuration-objects.md](configuration-objects.md) | Объекты конфигурации (обзор) |
 | [catalogs.md](catalogs.md) | Справочники |
