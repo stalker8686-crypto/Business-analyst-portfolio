@@ -12,6 +12,11 @@
 | https://its.1c.ru/db/v83doc/bookmark/adm | Руководство администратора 8.3 | Ссылка из введения |
 | https://its.1c.ru/db/v83doc/bookmark/cs | Клиент-серверный вариант. Руководство администратора | Ссылка из введения |
 | https://its.1c.ru/db/v8326doc/bookmark/dev/TI000000013 | Гл. 1. Концепция системы (конфигурация, объекты, варианты работы, клиенты) | Оглавление ITS |
+| https://its.1c.ru/db/v8326doc/bookmark/dev/TI000000116 | Гл. 4. Встроенный язык | Оглавление ITS, 2026-09-18 |
+| https://its.1c.ru/db/v8326doc/bookmark/dev/TI000000453 | Гл. 8. Работа с запросами | Оглавление ITS, 2026-09-18 |
+| https://its.1c.ru/db/v8326doc/bookmark/dev/TI000000641 | Гл. 11. Бухгалтерский учет | Оглавление ITS |
+| https://its.1c.ru/db/v8326doc/bookmark/dev/TI000000655 | Гл. 12. Периодические расчеты | Оглавление ITS |
+| https://its.1c.ru/db/v8326doc/bookmark/dev/TI000000665 | Гл. 13. Бизнес-процессы и задачи | Оглавление ITS |
 | https://v8.1c.ru/platforma/ | Обзор платформы | Проверено публично (навигация) |
 | https://v8.1c.ru/platforma/faylovyy-variant-raboty/ | Файловый вариант: назначение, целостность, архитектура, веб-сервер | Проверено публично |
 | https://v8.1c.ru/platforma/faylovaya-baza-dannykh/ | Файл `1Cv8.CD`, файловая СУБД фирмы «1С» | Проверено публично |

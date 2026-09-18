@@ -17,4 +17,4 @@
 | [edt.md](edt.md) | 1C:EDT |
 | [gaps-its-edt.md](gaps-its-edt.md) | Пробелы ITS / EDT |
 
-Типовой разбор: [../commands/README.md](../commands/README.md). Процессы платформы: [../knowledge/processes.md](../knowledge/processes.md) (26 штук).
+Типовой разбор: [../commands/README.md](../commands/README.md). Процессы платформы: [../knowledge/processes.md](../knowledge/processes.md) (36 штук).

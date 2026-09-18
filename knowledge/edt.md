@@ -30,7 +30,13 @@
 
 Плагины: [edt.1c.ru/ext/](https://edt.1c.ru/ext/) — модели метаданных, точки расширения, сервисы, JavaDoc (`com.e1c.g5.v8.dt.javadocs`), пример плагина.
 
-Сайт **1cedt.dev** при обращении 2026-09-16 вернул ошибку HTTP 500 — **недоступен, не проверено**.
+Сайт **1cedt.dev** и **www.1cedt.dev** при обращениях 2026-09-16 и 2026-09-18 вернули HTTP 500 — **недоступен**. Хост `help.edt.1c.ru` — DNS не резолвится (2026-09-18). Канон: [edt.1c.ru](https://edt.1c.ru/), [edt.1c.ru/docs/](https://edt.1c.ru/docs/), публичные HTML темы ITS `edtdoc`.
+
+Примеры публичных HTML (не замена всей базы `edtdoc`): CLI [t000608.html](https://its.1c.ru/db/content/edtdoc/src/topics/t000608.html); написание кода [i248.html](https://its.1c.ru/db/content/edtdoc/src/topics/i248.html); Навигатор [i016.html](https://its.1c.ru/db/content/edtdoc/src/topics/i016.html); редактирование конфигураций [i218.html](https://its.1c.ru/db/content/edtdoc/src/topics/i218.html); настройка [t000111.html](https://its.1c.ru/db/content/edtdoc/src/topics/t000111.html). Архив «Новое в версиях»: [edt.1c.ru/docs/new/](https://edt.1c.ru/docs/new/). Старая база [its.1c.ru/db/edt16doc](https://its.1c.ru/db/edt16doc) — заголовок/оглавление, не выгружалась как актуальный канон.
+
+Публичная тема EDT «Написание кода»: русский/английский синтаксис операторов, оператор **Перем**, директивы `&НаСервере` / `&НаКлиенте`, контексты, открытие модулей в Навигаторе.
+
+- Источник: [Написание кода](https://its.1c.ru/db/content/edtdoc/src/topics/i248.html). Проверено публично, 2026-09-18.
 
 ## Групповая разработка в Git
 
