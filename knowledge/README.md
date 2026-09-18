@@ -26,7 +26,12 @@
 | [extensions.md](extensions.md) | Расширения |
 | [edt.md](edt.md) | 1C:EDT |
 
+## Правила и команды для агентов
+
+- Правила (факты пака, без выдуманного синтаксиса/прав/процессов): [../rules/README.md](../rules/README.md)
+- Команды типового разбора: [../commands/README.md](../commands/README.md)
+
 ## Связанные пути репозитория
 
 - Индекс официальных URL: [sources/README.md](../sources/README.md)
-- Папки `rules/`, `commands/`, `output/` в этот pack не входят.
+- Папка `output/` в этот pack не входит.
