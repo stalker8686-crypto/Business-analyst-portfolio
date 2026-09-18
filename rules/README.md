@@ -16,6 +16,7 @@
 | [extensions.md](extensions.md) | Расширения |
 | [edt.md](edt.md) | 1C:EDT |
 | [1cmycloud-syntax.md](1cmycloud-syntax.md) | Язык «1С:Элемент» (1cmycloud), не смешивать с ITS |
+| [textbook-vs-official.md](textbook-vs-official.md) | Пособие вторично относительно ITS/v8.1c.ru |
 | [gaps-its-edt.md](gaps-its-edt.md) | Пробелы ITS / EDT |
 
-Типовой разбор: [../commands/README.md](../commands/README.md). Процессы: [../knowledge/processes.md](../knowledge/processes.md) (40 штук).
+Типовой разбор: [../commands/README.md](../commands/README.md). Процессы: [../knowledge/processes.md](../knowledge/processes.md) (42 штуки).

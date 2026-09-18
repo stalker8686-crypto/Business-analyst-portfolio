@@ -21,6 +21,7 @@
 | [objects.md](objects.md) | Объекты конфигурации, справочники, документы, регистры, бухучёт, периодические расчёты, бизнес-процессы, формы, модули |
 | [language-and-queries.md](language-and-queries.md) | Встроенный язык, запросы, синтакс-помощник |
 | [1cmycloud.md](1cmycloud.md) | Справка языка «1С:Элемент» на 1cmycloud.com |
+| [textbook-1c-programming.md](textbook-1c-programming.md) | Учебное пособие Фёдоровой, 2021 (не ITS) |
 | [roles-integrations-extensions.md](roles-integrations-extensions.md) | Роли, интеграции, расширения |
 | [edt.md](edt.md) | 1C:EDT |
 
